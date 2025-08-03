@@ -11,7 +11,7 @@
 <table>
 <tr>
 <td align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=2000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&height=70&lines=CHETHAN.EXE;FULL+STACK+DEVELOPER;NEURAL+ARCHITECT;CODE+WIZARD+%F0%9F%A7%99%E2%80%8D%E2%99%82%EF%B8%8F" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=2000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&height=70&lines=CHETHAN+P;FULL+STACK+DEVELOPER;AI+ENTHUSIAST;PROMPTONAUT+%F0%9F%A7%99%E2%80%8D%E2%99%82%EF%B8%8F" />
 </td>
 </tr>
 </table>
